@@ -40,7 +40,7 @@ done
 - [Github Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 - [Understanding and Ignoring Errors in bash](https://www.baeldung.com/linux/bash-errors)
 
-## Semantic Versioning
+## Semantic Versioning! :mage:
 [Semanting Versioning Reference](https://semver.org/)
 
 Given a version number **MAJOR.MINOR.PATCH**, e.g. `1.0.1`
